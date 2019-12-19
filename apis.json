@@ -1,0 +1,76 @@
+{
+    "name": "Netsil",
+    "description": "Netsil provides observability and monitoring for cloud apps. DevOps teams use Netsil's auto-discovered maps & analytics to assure uptime and performance.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19932-netsil.jpg",
+    "tags": [
+        "analysis",
+        "api provider",
+        "api service provider",
+        "have api",
+        "microservices",
+        "monitoring"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/netsil\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Netsil",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19932-netsil.jpg",
+            "humanURL": "http:\/\/netsil.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/netsil-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/netsil-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/blog.netsil.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/blog.netsil.com\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/netsil"
+        },
+        {
+            "type": "Email",
+            "url": "hello@netsil.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@netsil.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/netsil"
+        },
+        {
+            "type": "Integrations",
+            "url": "https:\/\/netsil.com\/integrations\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Netsil_HQ"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/netsil.com\/"
+        }
+    ]
+}
